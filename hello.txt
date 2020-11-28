@@ -1,5 +1,5 @@
 //Hello world
 void main() {
 	print("Hello Class, the class is not almost over");
-	print("Is this project ever going to work?");
+	print("Is this project ever going to work");
 }
