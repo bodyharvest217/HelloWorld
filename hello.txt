@@ -1,5 +1,4 @@
 //Hello world
 void main() {
 	print("Hello Class");
-	print("Is this project ever going to work?");
 }
