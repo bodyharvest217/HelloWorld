@@ -1,4 +1,4 @@
 //Hello world
 void main() {
-	print("Hello Class, the semester is almost over");
+	print("Hello Class, the class is not almost over");
 }
